@@ -1,0 +1,4 @@
+/* aplicando margin top no body para ajustar o layout pois o menu (<nav />) está com posição fixa */
+body {
+  margin-top: 56px;
+}
